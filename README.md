@@ -1,6 +1,7 @@
 # AssetCalculator
 This calculates your total assets and has a feature to output it as a text file or as visual graphs to understand where all your money is. It also has a feature to calculate the live result for your stocks
 
+* Quick Note, you need to create two extra files that I was unable to import, first one is a "credentials.txt" and the second one is a "Price.csv"
 
 Difficulty of project: (Medium)
 
