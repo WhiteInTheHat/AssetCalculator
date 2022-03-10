@@ -17,15 +17,15 @@ All main functions in the project:
 This project has quite a lot of main functions, it also has a lot of helper functions for these main functions.
 
 These include:
-Login system
-Registration system
-Bank portfolio 
-Investment portfolio
-Investment Accounts
-Other Assets
-Asset calculator
-Create report
-Graphical or Text
+- Login system
+- Registration system
+- Bank portfolio 
+- Investment portfolio
+- Investment Accounts
+- Other Assets
+- Asset calculator
+- Create report
+  - Graphical or Text
 - Logout Function
 
 
@@ -37,12 +37,12 @@ Useful Functions in the project:
 This project has some interesting functions all built on the file handling section of python with any imports.
 
 These include:
-Registration System
-Login System
-File manipulating functions
-Logout function
-Graphical representation using Matplotlib
-The use of Pandas to store data in a data frame and also scrape data from a certain data source provided
+- Registration System
+- Login System
+- File manipulating functions
+- Logout function
+- Graphical representation using Matplotlib
+- The use of Pandas to store data in a data frame and also scrape data from a certain data source provided
 
 
 Skills learnt whilst making this project:
